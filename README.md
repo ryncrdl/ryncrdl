@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryncrdl&label=Profile%20views&color=0e75b6&style=flat" alt="ryncrdl" /> </p>
 
-- 👨‍💻 All of my projects are available at [ryan-cordial.ver](ryan-cordial.ver)
+- 👨‍💻 All of my projects are available at [ryan-cordial](https://ryan-cordial.vercel.app/)
 
 - 📫 How to reach me **ryancordial.job@gmail.com**
 
