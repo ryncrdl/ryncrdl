@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Cordial</h1>
 <h3 align="center">A passionate Software Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryncrdl&label=Profile%20views&color=0e75b6&style=flat" alt="ryncrdl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryncrdl" alt="ryncrdl" /></a> </p>
-
 - 🔭 I’m currently working on [Wilcon Depot Inc.](https://omnibus.wilcon.com.ph/#/)
 
 - 🌱 I’m currently learning **Docker, C# & ASP.NET**
@@ -27,5 +23,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryncrdl&show_icons=true&locale=en&layout=compact" alt="ryncrdl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryncrdl&show_icons=true&locale=en" alt="ryncrdl" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryncrdl&label=Profile%20views&color=0e75b6&style=flat" alt="ryncrdl" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryncrdl" alt="ryncrdl" /></a> </p>
+
 
 
