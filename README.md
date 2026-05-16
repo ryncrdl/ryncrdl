@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **ryancordial.job@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1S14HDdYQ3Pm3rcSmhHmvr2H8LMUwEt4J/view)
 
 <h3 align="left">Connect with my LinkedIn:</h3>
 <p align="left">
